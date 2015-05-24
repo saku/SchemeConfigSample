@@ -1,0 +1,14 @@
+//
+//  Common.xcconfig
+//  SchemeConfigSample
+//
+//  Created by SakuraiYoichiro on 2015/05/20.
+//  Copyright (c) 2015年 SakuraiYoichiro. All rights reserved.
+//
+APP_VERSION_NUMBER=1.0.0
+APP_BUILD_NUMBER=201505200939
+
+BUNDLE_IDENTIFIER_BASE=biz.iphonework.schemeConfigSample
+
+SAMPLE_PROPERTY_1=abcd
+SAMPLE_PROPERTY_2=zzzz

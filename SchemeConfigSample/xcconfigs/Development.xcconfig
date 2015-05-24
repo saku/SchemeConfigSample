@@ -1,0 +1,15 @@
+//
+//  Development.xcconfig
+//  SchemeConfigSample
+//
+//  Created by SakuraiYoichiro on 2015/05/20.
+//  Copyright (c) 2015年 SakuraiYoichiro. All rights reserved.
+//
+
+#include "Common.xcconfig"
+
+BUNDLE_IDENTIFIER_EXTENSION=.dev
+
+SAMPLE_PROPERTY_2=****
+
+#include "Merge.xcconfig"

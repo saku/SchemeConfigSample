@@ -1,0 +1,9 @@
+//
+//  Merge.xcconfig
+//  SchemeConfigSample
+//
+//  Created by SakuraiYoichiro on 2015/05/21.
+//  Copyright (c) 2015年 SakuraiYoichiro. All rights reserved.
+//
+
+BUNDLE_IDENTIFIER=$(BUNDLE_IDENTIFIER_BASE)$(BUNDLE_IDENTIFIER_EXTENSION)
