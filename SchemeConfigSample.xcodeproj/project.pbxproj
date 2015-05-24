@@ -911,6 +911,7 @@
 				30FB12FF1B0DF12200D7030B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		30FB13001B0DF12200D7030B /* Build configuration list for PBXNativeTarget "SchemeConfigSample WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -920,6 +921,7 @@
 				30FB13031B0DF12200D7030B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
