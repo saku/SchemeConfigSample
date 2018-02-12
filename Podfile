@@ -1,7 +1,7 @@
 pod 'AFNetworking'
 
 # test target pods.
-target :SchemeConfigSampleTests, :exclusive => true do
+target :SchemeConfigSampleTests do
     pod 'OCMock'
 end
 
