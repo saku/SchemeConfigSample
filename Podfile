@@ -1,8 +1,9 @@
-pod 'AFNetworking'
+target 'SchemeConfigSample' do
+    pod 'AFNetworking'
 
-# test target pods.
-target :SchemeConfigSampleTests do
-    pod 'OCMock'
+    target 'SchemeConfigSampleTests' do
+        pod 'OCMock'
+    end
 end
 
 ## for develop environment, ignore Development.xcconfig change.
